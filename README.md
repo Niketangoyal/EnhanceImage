@@ -24,8 +24,8 @@ Before running this application, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/CodeWithHarry/flask-cloudinary-app
-   cd flask-cloudinary-app
+   git clone https://github.com/Niketangoyal/EnhanceImage.git
+   cd EnhanceImage
    ```
 
 2. **Install Dependencies**
